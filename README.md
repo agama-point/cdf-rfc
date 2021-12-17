@@ -1,6 +1,8 @@
 # cdf-rfc
 Crypto Data Format - RFC
 
+Specifications of general format for communicating crypto transaction data, enabling Bitcoin and Lightning transactions between machines. 
+
 ---
 
 - [CDF-001](https://github.com/agama-point/cdf-rfc/blob/master/CDF-001.md) Introduce Crypto Data Format
