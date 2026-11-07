@@ -9,4 +9,5 @@ Specifications of general format for communicating crypto transaction data, enab
 - [CDF-002](https://github.com/agama-point/cdf-rfc/blob/master/CDF-002.md) Define major MIME format
 - [CDF-003](https://github.com/agama-point/cdf-rfc/blob/master/CDF-003.md) Define basic minor types
 - [CDF-004](https://github.com/agama-point/cdf-rfc/blob/master/CDF-004.md) RFID NDEF
+- [CDF-005](https://github.com/agama-point/cdf-rfc/blob/master/CDF-005.md) Cashu minor types
  
